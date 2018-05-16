@@ -1,0 +1,12 @@
+D:\Web-API\Code\ShopEx\ShopEx.Model\bin\Debug\ShopEx.Model.dll.config
+D:\Web-API\Code\ShopEx\ShopEx.Model\bin\Debug\ShopEx.Model.dll
+D:\Web-API\Code\ShopEx\ShopEx.Model\bin\Debug\ShopEx.Model.pdb
+D:\Web-API\Code\ShopEx\ShopEx.Model\bin\Debug\EntityFramework.dll
+D:\Web-API\Code\ShopEx\ShopEx.Model\bin\Debug\EntityFramework.SqlServer.dll
+D:\Web-API\Code\ShopEx\ShopEx.Model\bin\Debug\EntityFramework.xml
+D:\Web-API\Code\ShopEx\ShopEx.Model\bin\Debug\EntityFramework.SqlServer.xml
+D:\Web-API\Code\ShopEx\ShopEx.Model\obj\Debug\ShopEx.Model.csprojResolveAssemblyReference.cache
+D:\Web-API\Code\ShopEx\ShopEx.Model\obj\Debug\ShopEx.Model.csproj.CoreCompileInputs.cache
+D:\Web-API\Code\ShopEx\ShopEx.Model\obj\Debug\ShopEx.Model.csproj.CopyComplete
+D:\Web-API\Code\ShopEx\ShopEx.Model\obj\Debug\ShopEx.Model.dll
+D:\Web-API\Code\ShopEx\ShopEx.Model\obj\Debug\ShopEx.Model.pdb

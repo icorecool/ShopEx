@@ -1,0 +1,15 @@
+D:\Web-API\Code\ShopEx\ShopEx.Service\bin\Debug\ShopEx.Service.dll
+D:\Web-API\Code\ShopEx\ShopEx.Service\bin\Debug\ShopEx.Service.pdb
+D:\Web-API\Code\ShopEx\ShopEx.Service\bin\Debug\ShopEx.Common.dll
+D:\Web-API\Code\ShopEx\ShopEx.Service\bin\Debug\ShopEx.Data.dll
+D:\Web-API\Code\ShopEx\ShopEx.Service\bin\Debug\ShopEx.Model.dll
+D:\Web-API\Code\ShopEx\ShopEx.Service\bin\Debug\ShopEx.Common.pdb
+D:\Web-API\Code\ShopEx\ShopEx.Service\bin\Debug\ShopEx.Data.pdb
+D:\Web-API\Code\ShopEx\ShopEx.Service\bin\Debug\ShopEx.Data.dll.config
+D:\Web-API\Code\ShopEx\ShopEx.Service\bin\Debug\ShopEx.Model.pdb
+D:\Web-API\Code\ShopEx\ShopEx.Service\bin\Debug\ShopEx.Model.dll.config
+D:\Web-API\Code\ShopEx\ShopEx.Service\obj\Debug\ShopEx.Service.csprojResolveAssemblyReference.cache
+D:\Web-API\Code\ShopEx\ShopEx.Service\obj\Debug\ShopEx.Service.csproj.CoreCompileInputs.cache
+D:\Web-API\Code\ShopEx\ShopEx.Service\obj\Debug\ShopEx.Service.csproj.CopyComplete
+D:\Web-API\Code\ShopEx\ShopEx.Service\obj\Debug\ShopEx.Service.dll
+D:\Web-API\Code\ShopEx\ShopEx.Service\obj\Debug\ShopEx.Service.pdb
