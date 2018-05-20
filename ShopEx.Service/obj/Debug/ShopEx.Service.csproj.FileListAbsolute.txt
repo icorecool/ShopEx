@@ -28,3 +28,5 @@ D:\Web-API\DuAn\ShopEx\ShopEx.Service\obj\Debug\ShopEx.Service.csproj.CoreCompil
 D:\Web-API\DuAn\ShopEx\ShopEx.Service\obj\Debug\ShopEx.Service.csproj.CopyComplete
 D:\Web-API\DuAn\ShopEx\ShopEx.Service\obj\Debug\ShopEx.Service.dll
 D:\Web-API\DuAn\ShopEx\ShopEx.Service\obj\Debug\ShopEx.Service.pdb
+D:\Web-API\DuAn\ShopEx\ShopEx.Service\bin\Debug\EntityFramework.dll
+D:\Web-API\DuAn\ShopEx\ShopEx.Service\bin\Debug\EntityFramework.xml

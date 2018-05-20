@@ -96,3 +96,5 @@ D:\Web-API\DuAn\ShopEx\ShopEx.UnitTest\obj\Debug\ShopEx.UnitTest.csproj.CoreComp
 D:\Web-API\DuAn\ShopEx\ShopEx.UnitTest\obj\Debug\ShopEx.UnitTest.csproj.CopyComplete
 D:\Web-API\DuAn\ShopEx\ShopEx.UnitTest\obj\Debug\ShopEx.UnitTest.dll
 D:\Web-API\DuAn\ShopEx\ShopEx.UnitTest\obj\Debug\ShopEx.UnitTest.pdb
+D:\Web-API\DuAn\ShopEx\ShopEx.UnitTest\bin\Debug\EntityFramework.dll
+D:\Web-API\DuAn\ShopEx\ShopEx.UnitTest\bin\Debug\EntityFramework.xml
